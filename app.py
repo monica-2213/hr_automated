@@ -8,7 +8,7 @@ import string
 from PyPDF2 import PdfReader
 
 
-jamai = JamAI(api_key="YOUR API KEY HERE", project_id="YOUR PROJECT ID KEY HERE")
+jamai = JamAI(api_key="YOUR API KEY HERE", project_id="proj_891eb22841ba077090adc207")
 
 
 # Function to extract text from PDF
